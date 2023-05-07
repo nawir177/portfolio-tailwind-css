@@ -8,6 +8,7 @@ module.exports = {
 				dark: "#0f172a",
 				secondary: "#64748b",
 			},
+
 		},
 	},
 	plugins: [],
